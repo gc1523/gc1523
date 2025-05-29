@@ -2,3 +2,8 @@
 
 
 I'm Guy, I keep stuff on github sometimes.
+
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gc1523&layout=compact&langs_count=8&hide=html,css,javascript,dockerfile,makefile&theme=tokyonight)
